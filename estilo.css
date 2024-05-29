@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 20vh;
+    background-color: black;
+    background-image: -webkit-linear-gradient(bottom,black, #0000EE);
+}
+#menu{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: center;
+    font-size: 2em;
+    color: white;
+    
+}
+#login{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+#montanha{
+    width: 20%;
+ 
+}
+#lupa{
+    width: 15%;
+    display: inline-block;
+    justify-content: space-around;
+    align-items: center;
+    
+}
